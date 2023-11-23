@@ -1,0 +1,1 @@
+export const useEventState = () => useState<boolean>('eventState', () => false);

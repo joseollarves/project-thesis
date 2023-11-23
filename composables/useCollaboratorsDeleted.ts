@@ -1,0 +1,1 @@
+export const useCollaboratorsDeleted = () => useState<boolean>('collaboratorDeleted', () => false);

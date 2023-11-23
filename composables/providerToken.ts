@@ -1,0 +1,1 @@
+export const useProviderToken = () => useState<string>('value', () => '');

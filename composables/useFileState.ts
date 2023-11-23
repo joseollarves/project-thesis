@@ -1,0 +1,1 @@
+export const useFileState = () => useState<boolean>('fileState', () => false);

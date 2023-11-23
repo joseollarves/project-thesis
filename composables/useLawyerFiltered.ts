@@ -1,0 +1,1 @@
+export const useLawyerFiltered = () => useState<Array>('lawyersFiltered', () => []);

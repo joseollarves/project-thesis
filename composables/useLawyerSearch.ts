@@ -1,0 +1,1 @@
+export const useLawyerSearch = () => useState<String>('lawyersSearched', () => '');

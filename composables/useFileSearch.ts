@@ -1,0 +1,1 @@
+export const useFileSearch = () => useState<String>('fileSearched', () => '');

@@ -1,0 +1,1 @@
+export const useEvents = () => useState<Array<Object>>('events', () => []);
