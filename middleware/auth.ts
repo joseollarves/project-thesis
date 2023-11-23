@@ -36,45 +36,4 @@ export default defineNuxtRouteMiddleware(async (to) => {
       return navigateTo("/profile");
     }
   }
-
-  //! Dejo este pocoton de codigo por si acaso
-  //const user = await useFetch('/api/user', { headers: useRequestHeaders(['cookie']) });
-  //console.log(user.data?.value);
-
-  //if(user.data?.value != null) {
-  //  console.log('si inicio sesion');
-  //} else {
-  //  console.log('no inicio sesion')
-  //}
-  /*const user = await useSupabaseUser();
-  console.log(a);
-  if(user.value != null) {
-    const lawyer = await useFetch(`/api/auth/${user.value?.email}`, { headers: useRequestHeaders(['cookie']) });
-    //console.log(lawyer.data.value);
-    //console.log(to)
-    if(lawyer.data.value == null && to.path == '/profile') {
-      return navigateTo('/');
-    } else if(lawyer.data.value != null && to.path == '/') {
-      return navigateTo('/profile');
-    }
-  } else {
-    console.log('no ha iniciado sesion');
-  }*/
-
-  // Sin SSR
-  /*const user = useSupabaseUser();
-  const headers = useRequestHeaders(['cookie'])
-  //console.log(user);
-
-  if (user != null) {
-    const lawyer: string = await $fetch(`/api/auth/${user.value?.email}`, {headers});
-    //console.log(lawyer);
-    if (lawyer == null && to.path == "/profile") {
-      return navigateTo("/");
-    } else if (lawyer != "" && to.path == "/") {
-      return navigateTo("/profile");
-    }
-  } else {
-    console.log('es nulo')
-  }*/
 });
