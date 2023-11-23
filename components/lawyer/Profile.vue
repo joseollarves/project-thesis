@@ -60,7 +60,7 @@ const user = useSupabaseUser();
             <span class="is-4">Correo Electrónico</span>
           </div>
           <span class="icon-text" style="margin-left: 10px">
-            <span>{{ props.lawyer.email }}</span>
+            <span>email@example.com</span>
           </span>
           <br />
         </div>
