@@ -48,11 +48,6 @@ cases.value = cases.value.slice(-3);
         <p>
           <strong style="color: gainsboro">Proyecto Bufete</strong> Hecho con ❤,
           por Arnaldo Mujica y José Ollarves.
-          <!--<a href="https://github.com/Retro0w0">Arnaldo Mujica</a> y
-          <a href="https://github.com/joseollarves">José Ollarves</a>.--> 
-          <!--El codigo del sistema
-          es de licencia
-          <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.-->
         </p>
       </div>
     </footer>
