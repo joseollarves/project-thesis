@@ -1,9 +1,9 @@
-###Introduction
+# Introduction
 Hello! This is the source code of our graduation thesis project. A **Web Application to digitize legal work environments.** Specifically for law firms.
 
 The Project was created using Nuxt.js for the whole project, Bulma CSS for the Frontend and Supabase for the Backend. It can be installed like a Progressive Web Application and it utilizes Google for authenticating users, sending emails with Gmail and managing events with Google Calendar.
 
-###Application Overview
+### Application Overview
 ----
 ![image1](https://github.com/joseollarves/project-thesis/assets/107653281/7973bdce-7ca1-4d78-a27f-13e7583b4631)
 
