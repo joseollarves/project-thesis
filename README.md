@@ -5,15 +5,15 @@ The Project was created using Nuxt.js for the whole project, Bulma CSS for the F
 
 ### Application Overview
 ----
-![image1](https://github.com/joseollarves/project-thesis/assets/107653281/7973bdce-7ca1-4d78-a27f-13e7583b4631)
+![image1](https://github.com/joseollarves/project-thesis/assets/107653281/f9f8c8a8-b3b8-433a-8eac-9dc1de5e6408)
 
 > The Web App allows law firms to have a digital contact space.
 
-![image2](https://github.com/joseollarves/project-thesis/assets/107653281/15e1d013-8eb7-42d8-bae0-964d716d6109)
+![image2](https://github.com/joseollarves/project-thesis/assets/107653281/ef0a2345-f675-4385-b9d6-ff26968f748e)
 
 > Has the ability to contact lawyers for consults.
 
-![image3](https://github.com/joseollarves/project-thesis/assets/107653281/aaf9a927-fd21-4fca-a6b1-57d76ef6279d)
+![image3](https://github.com/joseollarves/project-thesis/assets/107653281/f06661bd-58c5-4f98-9a3c-110e15433b30)
 
 > It also has a workspace for lawyers for their cases.
 > -The Application is only in spanish-
